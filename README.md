@@ -2,6 +2,7 @@
 Fix for Outlook keeps prompts for password when connected to O365, make it easiler when user have no admin right to edit the registry, or able fix it remotely if available by doing psexec.
 
 You can found the user name in start menu when it ask for it:
+
 ![image](https://user-images.githubusercontent.com/20796385/179487717-92279119-93e5-4e01-b3b5-8ced6cebf622.png)
 
 
