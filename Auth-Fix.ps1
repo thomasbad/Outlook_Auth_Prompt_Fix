@@ -8,6 +8,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdenti
 }
 $host.UI.RawUI.WindowTitle = "Outlook Re-auth fix"
 
+Clear-host
 Write-host @'
 
 ----------------------------------------------------------
